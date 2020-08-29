@@ -12,8 +12,8 @@ Liberation Serif pour tout le document
 
 + F5.T1
 + F5.T2
-- F5.T3
++ F5.T3
 
 + F3.T1
 + F3.T2
-- F3.T3
++ F3.T3
